@@ -1,8 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
-VisualStudioVersion = 12.0.31101.0
-MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.RPGNaruto.CSharp", "UnityVS.RPGNaruto.CSharp.csproj", "{6A9AF094-F743-1C41-D20F-4BD10C981A61}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.RPGNaruto.CSharp.Editor", "UnityVS.RPGNaruto.CSharp.Editor.csproj", "{6ED8B7C6-DE9A-CD11-0A97-9C118F411106}"
